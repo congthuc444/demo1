@@ -172,7 +172,7 @@ html{
 #slider .text-content{
    position: absolute;
    bottom: 47px;
-   color: #fff;
+   color: black;
    /* left: 50%;
    transform: translateX(-50%); */
    width: 100%;
