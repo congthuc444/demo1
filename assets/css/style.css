@@ -166,8 +166,11 @@ html{
     margin-top: 46px;
     padding-top: 50%;
     background: url(../../img/slider/slider1.jpg) center center / cover no-repeat;
-
-
+}
+.img-slider {
+  width: 100%;
+  height: auto;
+  display: block;
 }
 #slider .text-content{
    position: absolute;
